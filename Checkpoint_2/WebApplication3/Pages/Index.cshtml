@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Edit text";
+}
+
+<h1>Редактирование текста</h1>
+<form method="post">
+    <div class="form-group">
+        <label for="editor">Текст:</label>
+        <textarea id="editor" name="Text" class="form-control">@Model.Text</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>
+
+
+<script src="https://cdn.ckeditor.com/ckeditor5/39.0.1/classic/ckeditor.js"></script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        ClassicEditor
+    .create(document.querySelector('#editor'), {
+        ckfinder: {
+            uploadUrl: '/api/ImageUpload/upload'
+        }
+    })
+    .catch(error => {
+        console.error(error);
+    });
+
+    });
+</script>

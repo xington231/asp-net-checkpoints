@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qstTnzqxvjQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\degty\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\degty\\.nuget\\packages\\ckeditor\\3.6.4\\ckeditor.3.6.4.nupkg.sha512",
+    "C:\\Users\\degty\\.nuget\\packages\\ckeditor-full\\4.25.1\\ckeditor-full.4.25.1.nupkg.sha512",
+    "C:\\Users\\degty\\.nuget\\packages\\tinymce\\8.3.2\\tinymce.8.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
