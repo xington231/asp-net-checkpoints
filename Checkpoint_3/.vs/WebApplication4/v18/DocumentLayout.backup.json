@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\degty\\source\\repos\\WebApplication4\\",
+  "WorkspaceRootPath": "E:\\Study\\asp_net\\Checkpoint_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{319F9452-93E7-A649-C7D4-C1B94F96E233}|WebApplication4\\WebApplication4.csproj|c:\\users\\degty\\source\\repos\\webapplication4\\webapplication4\\controllers\\testcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{319F9452-93E7-A649-C7D4-C1B94F96E233}|WebApplication4\\WebApplication4.csproj|e:\\study\\asp_net\\checkpoint_3\\webapplication4\\controllers\\testcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{319F9452-93E7-A649-C7D4-C1B94F96E233}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\testcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TestController .cs",
-              "DocumentMoniker": "C:\\Users\\degty\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\TestController .cs",
+              "DocumentMoniker": "E:\\Study\\asp_net\\Checkpoint_3\\WebApplication4\\Controllers\\TestController .cs",
               "RelativeDocumentMoniker": "WebApplication4\\Controllers\\TestController .cs",
-              "ToolTip": "C:\\Users\\degty\\source\\repos\\WebApplication4\\WebApplication4\\Controllers\\TestController .cs",
+              "ToolTip": "E:\\Study\\asp_net\\Checkpoint_3\\WebApplication4\\Controllers\\TestController .cs",
               "RelativeToolTip": "WebApplication4\\Controllers\\TestController .cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAwD0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T10:27:22.132Z",
               "EditorCaption": ""

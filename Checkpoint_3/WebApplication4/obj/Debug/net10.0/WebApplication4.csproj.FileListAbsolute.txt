@@ -96,3 +96,15 @@ C:\Users\degty\source\repos\WebApplication4\WebApplication4\obj\Debug\net10.0\re
 C:\Users\degty\source\repos\WebApplication4\WebApplication4\obj\Debug\net10.0\WebApplication4.pdb
 C:\Users\degty\source\repos\WebApplication4\WebApplication4\obj\Debug\net10.0\WebApplication4.genruntimeconfig.cache
 C:\Users\degty\source\repos\WebApplication4\WebApplication4\obj\Debug\net10.0\ref\WebApplication4.dll
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.AssemblyInfoInputs.cache
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.AssemblyInfo.cs
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.csproj.CoreCompileInputs.cache
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.RazorAssemblyInfo.cache
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.RazorAssemblyInfo.cs
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.sourcelink.json
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.dll
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\refint\WebApplication4.dll
+E:\Study\asp_net\Checkpoint_3\WebApplication4\obj\Debug\net10.0\WebApplication4.pdb
