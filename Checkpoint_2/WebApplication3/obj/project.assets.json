@@ -1040,11 +1040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\degty\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+      "projectUniqueName": "E:\\Study\\asp_net\\Checkpoint_2\\WebApplication3\\WebApplication3.csproj",
       "projectName": "WebApplication3",
-      "projectPath": "C:\\Users\\degty\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+      "projectPath": "E:\\Study\\asp_net\\Checkpoint_2\\WebApplication3\\WebApplication3.csproj",
       "packagesPath": "C:\\Users\\degty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\degty\\source\\repos\\WebApplication3\\WebApplication3\\obj\\",
+      "outputPath": "E:\\Study\\asp_net\\Checkpoint_2\\WebApplication3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
