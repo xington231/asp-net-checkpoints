@@ -24,7 +24,7 @@ namespace WebApplication5.Controllers
         public async Task Headers()
         {
             Response.ContentType = "application/json";
-            await Response.WriteAsJsonAsync(Request.Headers);
+            await Response.WriteAsJsonAsync(Request.Headers.ToDictionary(h => h.Key, h => h.Value.ToString()));
         }
         [HttpGet]
         public async Task Query()

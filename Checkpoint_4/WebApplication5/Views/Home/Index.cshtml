@@ -1,8 +1,68 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Echo";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Get</h1>
+<form action="echo/get" method="get">
+    <button type="submit"> get</button>
+</form>
+
+
+<h1>Post</h1>
+<form id="postForm" action="echo/post" onclick="sendPostRequest()">
+    <button type="button"> post</button>
+</form>
+<label id="postResult">Тут появится результат Post</label>
+<script>
+    async function sendPostRequest() {
+        const response = await fetch('/Echo/Post', {
+            method: 'POST',
+            headers: {'Content-Type': 'text/plain'}
+        });
+        const result = await response.text();
+        document.getElementById('postResult').innerText = result;
+    }
+</script>
+
+<h1>Query</h1>
+<form action="echo/get" method="get">
+    <label>Введите имя</label>
+    <input type="text" name="Имя" value="Алина"/>
+    <button type="submit">Query</button>
+</form>
+
+<h1>Headers</h1>
+<form id="headersForm">
+    <button type="button" onclick="getInfoHeaders()">Получить заголовки</button>
+</form>
+<label id="headersResult">Здесь появится инфа о заголовках</label>
+
+<script>
+    async function getInfoHeaders() {
+        const response = await fetch('/Echo/Headers');
+        const data = await response.json();
+        document.getElementById('headersResult').innerText = JSON.stringify(data, null, 1);
+    }
+</script>
+
+
+<h1>PostBody</h1>
+<form id="bodyForm">
+    <label>Сообщение</label>
+    <textarea id="message" rows="4" cols="50">Привет!:3</textarea>
+    <button type="button" onclick="sendPostBodyRequest()">BODY</button>
+</form>
+<label id="postBodyResult">Здесь появится результат PostBody</label>
+
+<script>
+    async function sendPostBodyRequest() {
+        const message = document.getElementById('message').value;
+        const response = await fetch('/Echo/Body', {
+            method: 'POST',
+            headers: {'Content-Type': 'text/plain'},
+            body: message
+        });
+        const result = await response.text();
+        document.getElementById('postBodyResult').innerText = result;
+    }
+</script>

@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\degty\\source\\repos\\WebApplication5\\",
+  "WorkspaceRootPath": "E:\\Study\\asp_net\\Checkpoint_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{049452C0-7924-4D90-A761-8C33487FD5B8}|WebApplication5\\WebApplication5.csproj|c:\\users\\degty\\source\\repos\\webapplication5\\webapplication5\\controllers\\echocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049452C0-7924-4D90-A761-8C33487FD5B8}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\echocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|e:\\study\\asp_net\\checkpoint_4\\webapplication5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{049452C0-7924-4D90-A761-8C33487FD5B8}|WebApplication5\\WebApplication5.csproj|c:\\users\\degty\\source\\repos\\webapplication5\\webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{049452C0-7924-4D90-A761-8C33487FD5B8}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|e:\\study\\asp_net\\checkpoint_4\\webapplication5\\controllers\\echocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\controllers\\echocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|e:\\study\\asp_net\\checkpoint_4\\webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34453AB6-B73C-ECB2-B4B6-6EF853CD37CF}|WebApplication5\\WebApplication5.csproj|solutionrelative:webapplication5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\degty\\source\\repos\\WebApplication5\\WebApplication5\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication5\\Program.cs",
-              "ToolTip": "C:\\Users\\degty\\source\\repos\\WebApplication5\\WebApplication5\\Program.cs",
-              "RelativeToolTip": "WebApplication5\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T12:21:51.797Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Study\\asp_net\\Checkpoint_4\\WebApplication5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Study\\asp_net\\Checkpoint_4\\WebApplication5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T10:37:49.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study\\asp_net\\Checkpoint_4\\WebApplication5\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication5\\Program.cs",
+              "ToolTip": "E:\\Study\\asp_net\\Checkpoint_4\\WebApplication5\\Program.cs",
+              "RelativeToolTip": "WebApplication5\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:21:51.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EchoController.cs",
-              "DocumentMoniker": "C:\\Users\\degty\\source\\repos\\WebApplication5\\WebApplication5\\Controllers\\EchoController.cs",
+              "DocumentMoniker": "E:\\Study\\asp_net\\Checkpoint_4\\WebApplication5\\Controllers\\EchoController.cs",
               "RelativeDocumentMoniker": "WebApplication5\\Controllers\\EchoController.cs",
-              "ToolTip": "C:\\Users\\degty\\source\\repos\\WebApplication5\\WebApplication5\\Controllers\\EchoController.cs",
+              "ToolTip": "E:\\Study\\asp_net\\Checkpoint_4\\WebApplication5\\Controllers\\EchoController.cs",
               "RelativeToolTip": "WebApplication5\\Controllers\\EchoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T11:39:11.422Z",
               "EditorCaption": ""
